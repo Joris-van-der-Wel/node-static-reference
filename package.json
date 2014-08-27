@@ -1,0 +1,41 @@
+{
+  "name": "static-reference",
+  "version": "1.0.0",
+  "description": "Annotate file references within the source code of your node packages. These references can be scanned for using the dependency graph of a module.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Joris-van-der-Wel/node-static-reference.git"
+  },
+  "keywords": [
+    "annotate",
+    "dependency",
+    "graph",
+    "browser",
+    "require",
+    "module",
+    "exports",
+    "source",
+    "analyze",
+    "ast",
+    "dummy",
+    "asset",
+    "static",
+    "file",
+    "preprocess",
+    "merge",
+    "meta",
+    "metadatacompiler",
+    "reference",
+    "resource",
+    "link",
+    "relationship",
+    "static-reference"
+  ],
+  "author": "Joris van der Wel <joris@jorisvanderwel.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joris-van-der-Wel/node-static-reference/issues"
+  },
+  "homepage": "https://github.com/Joris-van-der-Wel/node-static-reference"
+}
